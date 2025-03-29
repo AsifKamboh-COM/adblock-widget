@@ -5,7 +5,7 @@ A lightweight JavaScript widget for detecting AdBlockers and displaying a messag
 ## 🚀 Installation
 Use it on your website:
 ```html
-<script src="https://cdn.example.com/adblock-widget.min.js"></script>
+<script src="https://cdn.asifkamboh.com/widget/adblock.min.js"></script>
 ```
 
 ## 📌 Features
